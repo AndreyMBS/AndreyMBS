@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreyMBS
-- 👀 I’m interested in programming languages, cybersecurity and project management.
+- 👀 I’m interested in data engineering.
 - 🌱 I’m currently learning PHP and Python.
 - 💞️ I’m looking to collaborate on projects aimed to the common well-being.
 
